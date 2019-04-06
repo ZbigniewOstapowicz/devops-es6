@@ -1,0 +1,40 @@
+.header {
+    width: 100%;
+    height: 60px;
+    background: white;
+
+    &__logo {
+        margin: 5px 0 5px 20px;
+    }
+}
+
+.header-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+    margin: 7px 10px;
+    width: 300px;
+    display: inline-block;
+
+    & li {
+        float: left;
+    }
+  
+    &__item {
+        display: block;
+        color: #333;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+
+        &:hover:not(.header-menu__item--active) {
+            background-color: #666;
+        }
+
+        &--active {
+            background-color: #4CAF50;
+        }
+    }
+}
