@@ -1,6 +1,6 @@
-### devops-es6
+## devops-es6
 
-## 1. Przygotowanie
+### 1. Przygotowanie
 1. Sprawdz, czy masz zainstalowany Node.js na komputerze. Aby to zrobic, uzyj w konsoli/terminalu komendy:
 
     > node -v
@@ -32,11 +32,11 @@
 
 ## Zrób jeden z podanych projektów korzystając z HTML, ES6 i SASS
 
-# 1. ToDo - dodawanie, lista oraz usuwanie todo
-# 2. Sekcja komentarzy - wyswietlanie, dodawanie i usuwanie komentarzy
-# 3. Lista postów - wyswietlanie, dodawanie i usuwanie postów
-# 4. Zarządzanie użytkownikami - dodawanie, usuwanie i edytowanie użytkowników
-# 5. Chat - dodawanie i wyświetlanie wiadomości
+### 1. ToDo - dodawanie, lista oraz usuwanie todo
+### 2. Sekcja komentarzy - wyswietlanie, dodawanie i usuwanie komentarzy
+### 3. Lista postów - wyswietlanie, dodawanie i usuwanie postów
+### 4. Zarządzanie użytkownikami - dodawanie, usuwanie i edytowanie użytkowników
+### 5. Chat - dodawanie i wyświetlanie wiadomości
 
 
 1. Przejrzyj obecne pliki JS w folderze src/js
@@ -51,3 +51,6 @@
 - Mój opis nowości - https://rwbit.pl/nowosci-w-es6/
 - Oficjalna strona Babela - https://babeljs.io/
 - Darmowe API do nauki - https://jsonplaceholder.typicode.com/
+- Wykład BEM - https://drive.google.com/open?id=1xyUWTnGiJUm8ziLFL8Ppkz5y5nvUKdLA
+- Wykład ES6+BABEL+CDT - https://drive.google.com/open?id=1_wswxQEkDvNtMlzRCERfuFo68e3pcqrW
+- Wykład SASS - https://drive.google.com/open?id=1W8f98rlz0lXJCL1lmbxQElQRpiklXHFs

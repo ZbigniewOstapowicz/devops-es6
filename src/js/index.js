@@ -8,4 +8,3 @@ const name = 'World';
 logSomething(name);
 
 const todo = new ToDo();
-todo.test();
